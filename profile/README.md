@@ -6,6 +6,15 @@
 
 OpenSnowcat is an <span style="text-decoration:underline;font-weight:bold">open-source fork of Snowplow following the license changes in 2023 and early 2024</span>. We're looking to sustain an analytics platform for many businesses dependent on the rights granted by the original Apache v2.0 License.
 
+## Repositories
+- [OpenSnowcat Enrich](https://github.com/opensnowcat/opensnowcat-enrich)
+ ![GitHub Release](https://img.shields.io/github/v/release/opensnowcat/opensnowcat-enrich)
+[![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml)
+
+- [OpenSnowcat Collector](https://github.com/opensnowcat/opensnowcat-collector)
+ ![GitHub Release](https://img.shields.io/github/v/release/opensnowcat/opensnowcat-collector)
+[![main](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml)
+
 ## Our Goals
 
 - **Free and Open-Source Forever** - Provide existing and new users with a widely-accepted license that companies can trust and that won't suddenly change in the future.
