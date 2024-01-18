@@ -7,13 +7,9 @@
 OpenSnowcat is an <span style="text-decoration:underline;font-weight:bold">open-source fork of Snowplow following the license changes in 2023 and early 2024</span>. We're looking to sustain an analytics platform for many businesses dependent on the rights granted by the original Apache v2.0 License.
 
 ## Repositories
-- [OpenSnowcat Enrich](https://github.com/opensnowcat/opensnowcat-enrich)
- ![GitHub Release](https://img.shields.io/github/v/release/opensnowcat/opensnowcat-enrich?link=https%3A%2F%2Fgithub.com%2Fopensnowcat%2Fopensnowcat-collector%2Freleases)
-[![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml)
+- [OpenSnowcat Enrich](https://github.com/opensnowcat/opensnowcat-enrich) [![OpenSnowcat Enrich][enrich-release-image]][enrich-releases] [![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml)
 
-- [OpenSnowcat Collector](https://github.com/opensnowcat/opensnowcat-collector)
-![GitHub Release](https://img.shields.io/github/v/release/opensnowcat/opensnowcat-collector?link=https%3A%2F%2Fgithub.com%2Fopensnowcat%2Fopensnowcat-collector%2Freleases)
-[![main](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml)
+- [OpenSnowcat Collector](https://github.com/opensnowcat/opensnowcat-collector) [![OpenSnowcat Enrich][collector-release-image]][collector-releases] [![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml)
 
 ## Our Goals
 
@@ -37,3 +33,10 @@ Effectively, everyone running Snowplow Open Source in production (we can assume 
 ## Stay Informed and Get Involved
 
 Follow OpenSnowcat on Github, participate in discussions and get involved!.
+
+
+[enrich-release-image]: https://img.shields.io/github/v/release/opensnowcat/opensnowcat-enrich?link=https%3A%2F%2Fgithub.com%2Fopensnowcat%2Fopensnowcat-enrich%2Freleases
+[enrich-releases]: https://github.com/opensnowcat/opensnowcat-enrich/releases
+
+[collector-release-image]: https://img.shields.io/github/v/release/opensnowcat/opensnowcat-collector?link=https%3A%2F%2Fgithub.com%2Fopensnowcat%2Fopensnowcat-collector%2Freleases
+[collector-releases]: https://github.com/opensnowcat/opensnowcat-collector/releases
