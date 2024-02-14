@@ -1,4 +1,4 @@
-# <img src="https://opensnowcat.io/logo.svg" alt="drawing" height="22"/> OpenSnowcat </h1>
+# <img src="https://opensnowcat.io/favicon.ico" alt="drawing" height="22"/> OpenSnowcat </h1>
 
  Open-Source enterprise-grade behavioral data platform.
 
