@@ -12,7 +12,7 @@ OpenSnowcat is an <span style="text-decoration:underline;font-weight:bold">open-
 ## Repositories
 - [OpenSnowcat Enrich](https://github.com/opensnowcat/opensnowcat-enrich) [![OpenSnowcat Enrich][enrich-release-image]][enrich-releases] [![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml)
 
-- [OpenSnowcat Collector](https://github.com/opensnowcat/opensnowcat-collector) [![OpenSnowcat Enrich][collector-release-image]][collector-releases] [![main](https://github.com/opensnowcat/opensnowcat-enrich/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml)
+- [OpenSnowcat Collector](https://github.com/opensnowcat/opensnowcat-collector) [![OpenSnowcat Enrich][collector-release-image]][collector-releases] [![main](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/opensnowcat/opensnowcat-collector/actions/workflows/test.yml)
 
 ## Our Goals
 
