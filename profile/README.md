@@ -1,12 +1,12 @@
 # <img src="https://opensnowcat.io/favicon.ico" alt="drawing" height="22"/> OpenSnowcat </h1>
 
- Open-Source enterprise-grade behavioral data platform.
+Open-Source enterprise-grade behavioral data platform. Visit our website at [opensnowcat.io](https://opensnowcat.io)
 
- ![Apache 2.0](https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat)
+![Apache 2.0](https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat)
 
-OpenSnowcat is an <span style="text-decoration:underline;font-weight:bold">open-source fork of Snowplow following the license changes in 2023 and early 2024</span>. We're looking to sustain an analytics platform for many businesses dependent on the rights granted by the original Apache v2.0 License.
+[OpenSnowcat](https://opensnowcat.io) is an <span style="text-decoration:underline;font-weight:bold">open-source fork of Snowplow following the license changes in 2023 and early 2024</span>. We're looking to sustain an analytics platform for many businesses dependent on the rights granted by the original Apache v2.0 License.
 
- :warning: **Questions**: Please use the [Github Discussions](https://github.com/orgs/opensnowcat/discussions/).
+:warning: **Questions**: Please use the [Github Discussions](https://github.com/orgs/opensnowcat/discussions/).
 
 
 ## Repositories
